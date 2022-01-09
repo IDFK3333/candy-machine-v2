@@ -16,10 +16,10 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://lanablocks.xyz";
+  const TITLE = "Ballin' Apes Club";
+  const DESCRTIPTION = "2250 Exclusive Rockstar Apes taking over the Hip-Hop Scene";
+  const HEADER_TITLE = "Ballin' Apes Club";
+  const HEADER_LINK = "https://www.ballinapesclub.com/";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "/example.gif";
   /***********************************/
